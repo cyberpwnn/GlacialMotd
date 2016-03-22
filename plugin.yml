@@ -1,0 +1,7 @@
+name: GlacialMotd
+main: com.glacialrush.motd.GlacialMotd
+version: 1.0
+depend: [ProtocolLib]
+commands:
+  gmotd:
+    aliases: [gmtd]
